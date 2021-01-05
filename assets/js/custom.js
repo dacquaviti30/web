@@ -271,7 +271,7 @@ jQuery(function($){
 /* ----------------------------------------------------------- */
 $(document).ready(function(){
     //** notice we are including jquery and the color plugin at
-    //** http://code.jquery.com/color/jquery.color-2.1.0.js
+    //** https://code.jquery.com/color/jquery.color-2.1.0.js
 
     var scroll_pos = 0;
     var animation_begin_pos = 0; //where you want the animation to begin
